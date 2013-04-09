@@ -1,0 +1,3 @@
+[submodule "lib/messenger"]
+	path = lib/messenger
+	url = git://github.com/HubSpot/messenger.git

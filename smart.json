@@ -1,0 +1,9 @@
+{
+  "name": "hubspot-messenger",
+  "description": "Hubspot Messenger repackaged for Meteor",
+  "homepage": "https://github.com/brentjanderson/meteor-messenger",
+  "author": "Brent Anderson <brentjanderson@me.com>",
+  "version": "1.2.3",
+  "license": "MIT",
+  "git": "https://github.com/brentjanderson/meteor-messenger.git"
+}
